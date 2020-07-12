@@ -13,8 +13,13 @@ Python 3
 ```
 ### Running the Program
 Go to the location of the [hangman.py](hangman.py) on the command line. To run it enter the following.
+On Windows:
 ```
 python hangman.py
+```
+On Linux/Mac:
+```
+python3 hangman.py
 ```
 Follow the onscreen instructions and play.
 

@@ -8,7 +8,6 @@ def scrap_imdb():
 
     from urllib.request import urlopen
     from bs4 import BeautifulSoup
-    import requests
     import ssl
     import re
 

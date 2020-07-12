@@ -14,7 +14,7 @@ Python 3
 ### Running the Program
 Go to the location of the [hangman.py](hangman.py) on the command line. To run it enter the following.
 ```
-python blackjack.py
+python hangman.py
 ```
 Follow the onscreen instructions and play.
 

@@ -12,7 +12,7 @@ Things you need to install.
 Python 3
 ```
 ### Running the Program
-Go to the location of the [blackjack.py](blackjack.py) on the command line. To run it enter the following.
+Go to the location of the [hangman.py](hangman.py) on the command line. To run it enter the following.
 ```
 python blackjack.py
 ```

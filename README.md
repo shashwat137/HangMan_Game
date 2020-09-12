@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 # HangMan_Game
 Hang-Man game in Python. A webscrapper scraps the IMDB top 250 movies list and creates a file containing the film titles. A movie is selected at random and the player has to guess it using consonants with a maximum of 7 incorrect tries.
 The vowels and non-alphabet characters are visible, while the rest of the characters are hidden by an asterisk. The player may select a minimum title length for the game.
